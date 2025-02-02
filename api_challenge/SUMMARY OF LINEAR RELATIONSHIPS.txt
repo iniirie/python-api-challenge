@@ -1,0 +1,50 @@
+SUMMARY OF LINEAR RELATIONSHIPS
+
+LATTITUDE VS TEMPERATURE
+
+	The linear regression analysis of latitude vs. temperature reveals consistent and predictable trends in both the Northern and Southern Hemispheres. In the Northern Hemisphere, there is a clear negative correlation between latitude and temperature—meaning that as one moves farther from the equator (0° latitude), temperatures tend to decrease. This is in line with expectations, as higher northern latitudes generally experience colder climates.
+
+	In contrast, the Southern Hemisphere displays a positive correlation between latitude and temperature. However, this still reflects the same global trend: the farther you move away from the equator—whether in the northern or southern direction—the colder it becomes. Although the correlation direction differs due to the negative latitude values in the Southern Hemisphere, the overall pattern remains consistent.
+
+	In summary, this analysis confirms that latitude is a reliable predictor of temperature. Both hemispheric analyses demonstrate that the farther a location is from the equator, whether at positive or negative latitudes, the lower the temperature tends to be. 
+
+
+
+LATITUDE VS. HUMITITY
+
+	The latitude vs. humidity linear regression is does not present as strong as a relationship as does latitude vs. temperature as the trend varies considerable more. 
+
+	The Northern Hemisphere displays a weak correlation between latitude and humidity, and would suggest there are more variables, such as local geography, bodies of water and climate patterns. 
+
+	Likewise, the Southern Hemisphere shows a weak correlation and humidity, suggesting that more factors other than latitude are at play such as geography and local climate when determining a correlation between latitude and humidity. 
+
+	While latitude and temperature show a strong correlation, the same cannot be said for humidity and latitude, as the relationship is weak across both hemispheres and would suggest there are environmental factors to consider other than solely latitude. 
+
+
+
+LATITUDE VS. CLOUDINESS
+
+	The linear regression analysis of latitude vs. cloudiness reveals that there is no significant correlation between these two variables in either the Northern or Southern Hemispheres.
+
+	In the Northern Hemisphere, the data displays a very weak correlation between latitude and cloudiness. This suggests that cloudiness levels are not strongly influenced by latitude, and instead are likely affected by more localized factors such as regional weather patterns, seasonal variations, and geographic features like mountains and proximity to large bodies of water.
+
+	Similarly, in the Southern Hemisphere, the regression analysis also indicates a weak and inconsistent correlation, implying that latitude is not a reliable predictor of cloudiness in this region either. Geographic factors like ocean currents, local atmospheric conditions, and seasonal weather systems likely have a more substantial impact on cloud cover than latitude alone.
+
+	In conclusion, unlike the strong and predictable relationship observed between latitude and temperature, the relationship between latitude and cloudiness is weak and inconsistent in both hemispheres. This suggests that cloudiness is influenced by environmental and atmospheric factors.
+
+
+
+WIND SPEED VS. LATITUDE
+
+	The linear regression analysis of latitude vs. wind speed reveals a weak and inconsistent relationship in both the Northern and Southern Hemispheres.
+
+	In the Northern Hemisphere, wind speed shows little correlation with latitude. This suggests that wind speed is influenced more by factors like local terrain, proximity to the coast, and regional weather systems rather than latitude. 
+
+	Like the Northern Hemisphere, he Southern Hemisphere, there is no strong correlation between latitude and wind speed. Oceanic influences, trade winds contribute to variations in wind speed, but these are driven by atmospheric conditions rather than latitude alone.
+
+	In summary, while latitude strongly predicts temperature, it has little effect on wind speed, which is shaped by a combination of geographical and meteorological factors.
+
+
+
+
+	
